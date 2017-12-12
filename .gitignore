@@ -1,6 +1,5 @@
 
 *.o
 *.dev
-*.win
 *.out
 *.layout
